@@ -1,7 +1,7 @@
 # 🎬 Sistema de Análisis y Recomendación de Películas
 
 <div align="center">
-  <img src="images/AnalisisMoviesDataset.gif" alt="MovieLens Analytics Platform Banner" width="100%">
+  <img src="images/AnalisisMoviesDataset_100.gif" alt="MovieLens Analytics Platform Banner" width="100%">
 </div>
 
 ## 📋 Descripción
