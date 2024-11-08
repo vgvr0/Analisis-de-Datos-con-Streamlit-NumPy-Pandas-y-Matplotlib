@@ -15,7 +15,7 @@ Sistema completo de análisis y visualización de datos cinematográficos que pr
 ```
 movie-analysis/
 │
-├── app_aux.py            # Punto de entrada principal
+├── app.py            # Punto de entrada principal
 ├── dashboard.py          # Implementación del dashboard
 ├── analysis.py           # Funciones de análisis de datos
 ├── visualization.py      # Funciones de visualización
@@ -65,7 +65,7 @@ movie-analysis/
 ### Uso
 1. Ejecutar la aplicación:
    ```bash
-   streamlit run app_aux.py
+   streamlit run app.py
    ```
 
 2. Cargar datos:
