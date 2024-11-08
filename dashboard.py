@@ -28,7 +28,7 @@ def mi_codigo():
     )
 
     # Título principal
-    st.title("🎬 Dashboard de Análisis de Películas")
+    st.title("🎬 Movies Data Dashboard")
     st.markdown("---")
     
     # Explicación de variables
