@@ -1,5 +1,8 @@
 # 🎬 Sistema de Análisis y Recomendación de Películas
 
+## Demo en vivo
+👉 Puedes probar la aplicación en vivo aquí: [Demo App](https://p5gn2cvv6wk5fyhqgyeqhn.streamlit.app/). Tan solo necesitas subir el dataset deseado, en mi caso está desarrollado para dataset_movies.xlsx.
+
 <div align="center">
   <img src="images/AnalisisMoviesDataset_100.gif" alt="MovieLens Analytics Platform Banner" width="100%">
 </div>
